@@ -1,0 +1,17 @@
+{
+  "name": "podcastGenerator",
+  "version": "1.0.0",
+  "description": "Podcast generator",
+  "private": true,
+  "author": "orloffv",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orloffv/podcastGenerator.git"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "rss": "~0.3.2",
+    "underscore": "~1.5.2"
+    "musicmetadata": "~0.3.2"
+  }
+}
